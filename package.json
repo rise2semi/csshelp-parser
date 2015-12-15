@@ -1,0 +1,15 @@
+{
+  "name": "csshelp-parser",
+  "version": "0.1.0",
+  "description": "Parser for CSSHelp",
+  "main": "index.js",
+  "author": "Borys Semerenko <rise2semi@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rise2semi/csshelp-parser.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rise2semi/csshelp-parser/issues"
+  }
+}
